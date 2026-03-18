@@ -3,6 +3,8 @@ Centralized Web Directory for the Court Case Information Databases Across Ohio's
 
 This project comprises of the raw dataset, which is held in CSV format with "ohioCourtData.csv" and in JSON format with "courtData.js," and the web tool.  The web tool is a simple proof-of-concept that reads "courtData.js" and permits simple browsing with nothing more than Vanilla JS.  
 
+The web tool can be viewed at [https://ajgabz.github.io/ohio-trialcrtrecs/](https://ajgabz.github.io/ohio-trialcrtrecs/).
+
 [Skeleton CSS](http://getskeleton.com/) is used with this web tool to permit a lightweight, responsive design across devices.
 
 If there is interest in this project, the next steps would be a hosted SQLite database and a web app that actively queries said database.  
